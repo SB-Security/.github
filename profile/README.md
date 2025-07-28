@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://sbsecurity.net" target="_blank">
-        <img src="Banner.jpg" alt="SBSecurity Banner">
+        <img src="../Banner.jpg" alt="SBSecurity Banner">
     </a>
 </p>
 
